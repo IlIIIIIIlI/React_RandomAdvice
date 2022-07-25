@@ -53,7 +53,10 @@ class App extends React.Component {
             <div className="app">
                 <div className="card">
                     <h1 className="heading">{advice}</h1>
-                    </div>
+                    <button className='button'>\
+                        <span>GIVE me Some Advice!</span>
+                    </button>
+                </div>
             </div>
         );
     }
