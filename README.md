@@ -1,4 +1,4 @@
-# For this program, you can access the page through the link ** https://main--dapper-mandazi-a657df.netlify.app/ ** which is held by netlify.
+For this program, you can access the page through the link ** https://main--dapper-mandazi-a657df.netlify.app/ ** which is held by netlify.
 
 # Getting Started with Create React App
 
